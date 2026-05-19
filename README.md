@@ -1,4 +1,4 @@
-# Law Firm Website Demo
+# Professional Law Firm Website Demo
 
 ## Project Overview
 
